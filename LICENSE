@@ -1,9 +1,21 @@
 MIT License
 
-Copyright (c) 2025 Emre Sert
+Copyright (c) 2025 Emre
 
-İzin verilir, ücrete tabi olmaksızın, bu yazılımın ve ilişkili belgelerin kopyalarını elde etme, kullanma, çoğaltma, değiştirme, birleştirme, yayımlama, dağıtma, alt lisans verme ve/veya satış yapma izni verilir, yalnızca aşağıdaki şartlar yerine getirilmişse:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Yukarıda belirtilen telif hakkı bildirimi ve bu iznin tüm kopyalarında, bu izni veren kişi tarafından sağlanan bildirimi içeren bir bildirimi eklemelisiniz.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-BU YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKLE BİRLİKTE, İTİBARİYLE, BELİRLI BİR AMACA UYGUNLUK, TİCARETİNE DAYALI GARANTİLERİ VEYA İHLALİNİ İÇERMEK ÜZERE HERHANGİ BİR GARANTİ VERİLMEMEKTEDİR. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
